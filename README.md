@@ -3,6 +3,7 @@
 <h1>
 Linkedin Dark Mode
 </h1>
+<h2>Com troca de tema, de dark para light mode</h2>
 <!-- Subtitle/Description -->
 <h4>IMC Calc é uma aplicação responsável por calcular o Indíce de Massa Corpórea do usuário, apresentando os resultados de forma amigável.</h4>
 <p>
