@@ -46,13 +46,6 @@ $ yarn start or npm start
 ```
 ---
 
-### :gift: Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Please make sure to update tests as appropriate.
-
----
-
 <div align="center">
 <p><i>Desenvolvido por <a href="https://www.linkedin.com/in/dvdcastro/">David Castro</i></p>
 </div>
