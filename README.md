@@ -28,6 +28,7 @@ Linkedin Dark Mode
 - [Styled-Components](https://styled-components.com)
 - [Context API](https://pt-br.reactjs.org/docs/context.html)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Figma para prototipagem de interface](www.figma.com/)
 
 ---
 
