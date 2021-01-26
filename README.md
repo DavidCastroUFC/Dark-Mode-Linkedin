@@ -7,7 +7,7 @@ Linkedin Dark Mode
 <h4>Com troca de tema, de dark para light mode</h4>
 <p>
 <!-- Image Shields -->
-<img  alt="Language Top"  src="https://img.shields.io/github/languages/top/joaovictornsv/imc-calc">
+<img  alt="Language Top"  src="https://img.shields.io/github/repo-size/DavidCastroUFC/Dark-Mode-Linkedin">
 <img  alt="Languages Count"  src="https://img.shields.io/github/languages/count/joaovictornsv/imc-calc">
 <img  alt="Last Commit"  src="https://img.shields.io/github/last-commit/joaovictornsv/imc-calc">
 <img  alt="Repo Size"  src="https://img.shields.io/github/repo-size/joaovictornsv/imc-calc">
