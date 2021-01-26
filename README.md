@@ -1,7 +1,7 @@
 <div  align="center">
 <!-- Top Image and Title -->
 <h1>
-<img  src="./assets/images/logo.svg"  width="300px"><br/>
+Linkedin Dark Mode
 </h1>
 <!-- Subtitle/Description -->
 <h4>IMC Calc é uma aplicação responsável por calcular o Indíce de Massa Corpórea do usuário, apresentando os resultados de forma amigável.</h4>
@@ -16,21 +16,20 @@
 </p>
   
 <!-- Nav Menu -->
-<a  href=#telescope-tecnologias>Technologies</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="#gift-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a  href=#telescope-tecnologias>Tecnologias</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="#information_source-how-to-use">Como usar para Testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 
-<img  width="100%"  src="https://i.imgur.com/ScNyT7d.png">
-<img  width="100%"  src="https://i.imgur.com/kfoftIU.png">
+<img  width="100%"  src="https://i.imgur.com/yniIPyX.png">
+<img  width="100%"  src="https://i.imgur.com/GnnYUQA.png">
 </div>
 
 ---
 
 ### :rocket: Technologies
-- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
-- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-    
+- [React JS](https://pt-br.reactjs.org)
+- [Styled-Components](https://styled-components.com)
+- [Context API](https://pt-br.reactjs.org/docs/context.html)
+
 ---
 
 ### :information_source: How To Use
@@ -40,8 +39,10 @@
 $ git clone https://github.com/DavidCastroUFC/Dark-Mode-Linkedin
 
 # Go into the repository
-$ cd imc-calc
+$ cd Dark-Mode-Linkedin
 
+# Start the server
+$ yarn start or npm start
 ```
 ---
 
