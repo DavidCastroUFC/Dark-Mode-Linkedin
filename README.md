@@ -27,6 +27,7 @@ Linkedin Dark Mode
 - [React JS](https://pt-br.reactjs.org)
 - [Styled-Components](https://styled-components.com)
 - [Context API](https://pt-br.reactjs.org/docs/context.html)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ---
 
